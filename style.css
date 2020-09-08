@@ -9,14 +9,20 @@ body::-webkit-scrollbar {
   }
   
   /* LOGO E NOME EMRPESA */
-  
+  #headerBack{
+    background-image: url(img/BzQeber.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   #logoHeader{
-      height: 100px;
-      margin-top: 10px;
+    height: 100px;
+    margin-top: 10px;
   }
   #nomeEmpresa{
-      font-size: 20px;
-      font-family: 'Cinzel', serif;
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
   }
   
   /* BARRA DE NAVEGAÇÃO */
